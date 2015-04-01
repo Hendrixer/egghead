@@ -6,5 +6,5 @@ class MainController {
   }
 }
 
-angular.module('ng6', [])
-.controller('MainController', MainController)
+angular.module('app', [])
+.controller('MainController', MainController);
